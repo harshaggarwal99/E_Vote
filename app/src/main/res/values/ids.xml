@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_name" type="id">VotersName</item>
+    <item name="text_dob" type="id">DateOfBirth</item>
+    <item name="text_phone" type="id">PhoneNumber</item>
+</resources>

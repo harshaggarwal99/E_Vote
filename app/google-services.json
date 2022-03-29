@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906506718312",
+    "project_id": "evote-f1a4b",
+    "storage_bucket": "evote-f1a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906506718312:android:43525104465fe090a6bfdd",
+        "android_client_info": {
+          "package_name": "com.example.evote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906506718312-mnhok39lgkuqfhin7vo63mpoqg0k9vtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4bRzS-MqS02U_ixlf3usHhXQL1ixRmYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906506718312-mnhok39lgkuqfhin7vo63mpoqg0k9vtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
